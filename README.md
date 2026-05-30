@@ -42,7 +42,11 @@ This project was created using Figma and includes a complete user journey starti
 ![Welcome Screen](welcome.png)
 
 ### Login Screen
-![Login Screen](Log In.png)
+![Login Screen](Login.png)
+
+### Start Screen
+![Start Screen](Start.png)
+
 
 ### Questions Screen
 ![Questions Screen](Questions.png)
